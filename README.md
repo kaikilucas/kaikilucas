@@ -1,5 +1,5 @@
 
-<h1>Olá! Eu sou o Kaiki Lucas 🖐️</h1>
+<h1>Olá! Eu me chamo Kaiki Lucas 🖐️</h1>
 
 
 

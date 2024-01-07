@@ -12,7 +12,6 @@ Sempre gostei de tecnologia e hoje estou me especializando na area sempre buscan
 
 
 ![Kaiki Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=kaikilucas&show_icons=true&theme=radical)
-<img width="40%" align="center" src="https://camo.githubusercontent.com/48b68c22d8d3549fe8dddc11dc0f95ce3d627baddc9de0fbd252b595e2ca2a5c/68747470733a2f2f6769746875622d726561646d652d73746174732d6769742d6d61696e2d72616661656c616c6578616e6472696e6f2e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d72616661656c616c6578616e6472696e6f2673686f775f69636f6e733d74727565267468656d653d7261646963616c266c61796f75743d636f6d70616374" data-canonical-src="https://github-readme-stats-git-main-kaikilucas.vercel.app/api/top-langs/?username=kaikilucas&amp;show_icons=true&amp;theme=radical&amp;layout=compact" style="max-width: 100%;">
 
 
 ## Tecnologias

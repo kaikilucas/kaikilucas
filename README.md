@@ -6,13 +6,12 @@
 <h3>Bem vindo ao meu perfil</h3>
 
 
-<blockquote> <p dir="auto">
+<blockquote> <p>
 Sempre gostei de tecnologia e hoje estou me especializando na area sempre buscando mais conhecimento, estou cursando ADS Análise de Desenvolvimento de Sistemas, estudando Inglês e aprimorando as tecnologias que utilizo..
 </p></blockquote>
 
 
 ![Kaiki Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=kaikilucas&show_icons=true&theme=radical)
-<img src="https://camo.githubusercontent.com/d130989ab2ff9811a182acc284809d919b581e2ba6b2b3b657775348e99631ce/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a6f346f766974746f72266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikilucas&amp;layout=compact" style="max-width: 100%;">
 
 
 ## Tecnologias

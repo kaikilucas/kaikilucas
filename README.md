@@ -12,6 +12,8 @@ Sempre gostei de tecnologia e hoje estou me especializando na area sempre buscan
 
 
 ![Kaiki Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=kaikilucas&show_icons=true&theme=radical)
+![Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=kaikilucas&amp;show_icons=true&amp;theme=radical&amp;layout=compact)
+
 
 
 ## Tecnologias

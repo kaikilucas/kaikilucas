@@ -7,7 +7,21 @@
 
 
 <blockquote> <p>
-Sempre gostei de tecnologia e hoje estou me especializando na area sempre buscando mais conhecimento, estou cursando ADS Análise de Desenvolvimento de Sistemas, estudando Inglês e aprimorando as tecnologias que utilizo..
+Desenvolvedor Front-End 
+
+Habilidades técnicas: 
+• JavaScript e React: Experiência na construção de interfaces responsivas e com alto desempenho usando tecnologias como JavaScript e React.
+• CSS, Tailwind e Bootstrap: Domínio em estilização de páginas web utilizando CSS, Tailwind e Bootstrap, visando facilitar a produção e manutenção, assegurando um design elegante e eficiente.
+• Version Control (Git & Github): Conhecimento sólido em controle de versão utilizando Git e gerenciamento de repositórios no GitHub, garantindo um fluxo de trabalho colaborativo e organizado.
+• UX/UI e Figma: Proficiência em design de experiência do usuário (UX/UI), utilizando ferramentas como Figma para criar layouts e experiências intuitivas, priorizando a usabilidade e a estética.
+
+Soft-Skills:
+• Auto-Ditata
+• Empreendedor
+• Inteligência emocional
+
+Experiência:
+ • Presto serviço como freelancer, Desenvolvo software, web site para venda, empreendo em negocios online, com criação e venda de infoprodutos, Landing pages, e tambem faço vendas de produtos com um ecommerce que eu criei
 </p></blockquote>
 
 

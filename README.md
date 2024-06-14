@@ -20,7 +20,7 @@ Soft-Skills:
 • Inteligência emocional
 
 Experiência:
- • Presto serviço como freelancer, Desenvolvo software, web site para venda, empreendo em negocios online, com criação e venda de infoprodutos, Landing pages, e tambem faço vendas de produtos com um ecommerce que eu criei
+ • Presto serviço como freelancer, Desenvolvo software, web site para venda, empreendo em negocios online, com criação e venda de infoprodutos, Landing pages.
 </p></blockquote>
 
 

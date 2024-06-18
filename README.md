@@ -15,7 +15,7 @@ Habilidades técnicas:
 • Version Control (Git & Github): Conhecimento sólido em controle de versão utilizando Git e gerenciamento de repositórios no GitHub, garantindo um fluxo de trabalho colaborativo e organizado.
 
 Soft-Skills:
-• Auto-Ditata
+• Autodidata
 • Empreendedor
 • Inteligência emocional
 

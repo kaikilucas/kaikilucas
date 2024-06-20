@@ -7,7 +7,7 @@
 
 
 <blockquote> <p>
-Desenvolvedor Front-End 
+Desenvolvedor de Software
 
 Habilidades técnicas: 
 • JavaScript e React: Experiência na construção de interfaces responsivas e com alto desempenho usando tecnologias como JavaScript e React.
